@@ -14,9 +14,19 @@ A simple Bash script that checks the **health of a virtual machine** based on:
    ```bash
    git clone https://github.com/<your-username>/vm-health-check.git
    cd vm-health-check
+   ```
 
-2. Make the file executable
+2. Make the file executable:
    ```bash
    chmod +x health_check.sh
    ```
 
+3. Run a quick Health Check:
+   ```bash
+   ./health_check.sh
+   ```
+
+4. Run with the explain argument for a detailed summary:
+   ```bash
+   ./health_check.sh explain
+   ```
