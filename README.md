@@ -14,7 +14,7 @@ A simple Bash script that checks the **health of a virtual machine** based on:
    ```bash
    git clone https://github.com/gyenoch/VM-Health-Check.git
 
-   cd vm-health-check
+   cd VM-Health-Check
    ```
 
 2. Make the file executable:
